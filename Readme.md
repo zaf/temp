@@ -1,4 +1,5 @@
 # temp
+A package to create temporary files and directories based on the on ioutil Go package
 --
     import "github.com/zaf/temp"
 
