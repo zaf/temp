@@ -1,5 +1,9 @@
 # temp
 A package to create temporary files and directories based on the ioutil Go package
+
+This package is now obsolete, the functionality it provides was added to Go std lib
+in version 1.14
+ 
 --
     import "github.com/zaf/temp"
 
